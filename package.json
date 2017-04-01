@@ -1,0 +1,22 @@
+{
+  "name": "drone-blu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octoblu/drone-blu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octoblu/drone-blu/issues"
+  },
+  "homepage": "https://github.com/octoblu/drone-blu#readme",
+  "dependencies": {
+    "next": "^2.0.1"
+  }
+}
